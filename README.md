@@ -109,4 +109,17 @@ minbpe, nanochat).
 
 ---
 
+## Referências científicas (crédito aos autores)
+
+- Rumelhart, Hinton & Williams (1986). Learning representations by back-propagating errors. Nature.
+- Vaswani et al. (2017). Attention Is All You Need. NeurIPS.
+- Sennrich, Haddow & Birch (2016). Neural Machine Translation of Rare Words with Subword Units (BPE). ACL.
+- Ouyang et al. (2022). Training LMs to follow instructions with human feedback (InstructGPT). NeurIPS.
+- Rafailov et al. (2023). Direct Preference Optimization (DPO). NeurIPS.
+- Karpathy, A. Neural Networks: Zero to Hero, e os repositórios micrograd, nanoGPT, minbpe e nanochat.
+
+Notas de estudo baseadas nesses materiais; crédito às autoras e aos autores originais.
+
+---
+
 Part of my LinkedIn series on building LLMs from scratch → [Flávia Gaia](https://www.linkedin.com/in/flavia-gaia/)
